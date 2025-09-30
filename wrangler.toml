@@ -10,7 +10,7 @@ name = "katelyatv"
 # 生产环境 D1 数据库配置
 [[env.production.d1_databases]]
 binding = "DB"
-database_name = "katelyatv-db"
+database_name = "katelyatv"
 database_id = "40a96f4a-1342-48bd-9b31-360e7ee316dc"
 
 # 生产环境变量
